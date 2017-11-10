@@ -22,7 +22,7 @@ $errors="";
 
     if ( $emailInDB ) {
       $msgReInit ="Vous avez demandé une réinitialisation de votre mot de passe, cliquez sur le lien : \n";
-      $msgReInit .="pwd_Resetting.php?id=".$emailInDB["id"];
+      $msgReInit .="http:/localhost/Projet_PHP_btstrp/pwd_Resetting.php?id=".$emailInDB["id"];
       $msgReInit .="&token=";
       $token = generateResetToken();
       $msgReInit .=$token;
