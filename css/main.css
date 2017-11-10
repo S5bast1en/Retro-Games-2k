@@ -1,0 +1,55 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+    /*font-family: 'Audiowide', cursive;*/
+    font-family: verdana;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+
+  /*
+  	font-family: 'Monoton', cursive;
+		font-family: 'Rokkitt', serif;
+	 	font-family: 'Fascinate Inline', cursive;
+    font-family: 'Orbitron', sans-serif;
+		font-family: 'Black Ops One', cursive;
+*/
+		background-color:black;
+		color:#2EFE2E;
+		width:100%;
+}
+h1, h2 {
+	text-align:center;
+  font-family: 'Audiowide', cursive;
+}
+h4 {
+  	text-align:center;
+}
+
+.container {
+text-align:center;
+}
+
+.containerCentral {
+text-align:center;
+}
+
+
+img {
+	padding: 0 73px;
+}
+
+.btn-default {
+	color:#088A08;
+	border-radius:25%;
+	background-color:black;
+}
+
+
+footer {
+	width:100%;
+	text-align: right;
+	padding:0px 0px;
+}

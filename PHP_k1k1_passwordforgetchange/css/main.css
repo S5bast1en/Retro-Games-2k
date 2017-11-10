@@ -1,0 +1,66 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+li {
+
+	list-style-type: none; 
+	text-align: center; 
+}
+
+.list {
+	margin-left: 10px; 
+	margin-right: 10px;
+	background-color: #F25454; 
+	height: 500px;
+	border-radius: 45px;
+}
+
+.list img {
+
+	margin-top: 40px;
+	margin-right: 12%;
+	margin-left: 12%;
+	height: 200px; 
+	width: 300px; 
+
+}
+
+.list ul {
+
+	padding-left: 0px; 
+}
+
+
+.navbar span {
+
+	padding-left: 20px; 
+	line-height: 50px; 
+
+}
+
+
+.infoGame {
+
+	margin-left: 40px; 
+}
+
+
+
+.labelForm {
+
+	text-align: right; 
+}
+
+
+
+
+
+
+

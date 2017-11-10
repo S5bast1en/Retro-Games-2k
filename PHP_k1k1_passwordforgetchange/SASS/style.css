@@ -1,0 +1,87 @@
+/*#C15415; */
+/*#2F2929;*/
+/*#A3563C;*/
+* {
+  color: #E0E0E0;
+  font-family: 'Play', sans-serif; }
+
+input,
+select,
+textarea {
+  color: black; }
+
+h2 {
+  text-shadow: 1px 1px 2px black; }
+
+li {
+  list-style-type: none;
+  text-align: center; }
+
+body {
+  background-color: #38000C; }
+
+.defaultList {
+  width: 450px; }
+
+.list {
+  background-color: #702C00;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 500px;
+  border-radius: 45px; }
+
+.list img {
+  margin-top: 40px;
+  /*margin-right: 12%;
+  margin-left: 12%;*/
+  height: 200px;
+  width: 75%; }
+.list ul {
+  padding-left: 0px; }
+
+.navbar span {
+  padding-left: 20px;
+  line-height: 50px; }
+
+.infoGame {
+  margin-left: 40px; }
+
+.labelForm {
+  text-align: right; }
+
+.detailFiche {
+  border: 2px solid white;
+  background-color: #702C00; }
+  .detailFiche p, .detailFiche h2 {
+    text-align: center; }
+  .detailFiche img {
+    margin-top: 40px; }
+
+.commentDiv {
+  padding-left: 95px; }
+  .commentDiv .coment {
+    color: black;
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    border: 1px solid black; }
+    .commentDiv .coment p {
+      color: black; }
+    .commentDiv .coment hr {
+      border: 1px solid gray;
+      margin-left: 15px;
+      margin-right: 15px; }
+
+.disable {
+  cursor: not-allowed;
+  background-color: gray;
+  pointer-events: none; }
+
+nav .fa-check:before {
+  color: green;
+  font-size: 20px; }
+nav .fa-times:before {
+  color: red;
+  font-size: 20px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,15 @@
+SELECT * FROM games_type
+
+
+
+récupérer tous les jeux par ordre de sortie 
+
+SELECT * FROM games ORDER BY release_note ASC
+
+
+SELECT * FROM games WHERE id = 2
+
+
+
+
+SELECT * FROM games WHERE name LIKE "%a%"
